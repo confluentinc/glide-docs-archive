@@ -1,6 +1,6 @@
 module github.com/common-fate/docs
 
-go 1.19
+go 1.24
 
 require (
 	github.com/common-fate/clio v1.1.0
@@ -15,7 +15,7 @@ require (
 	github.com/aws-cloudformation/rain v1.2.0 // indirect
 	github.com/aws/aws-sdk-go v1.44.71 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.17.1 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.3 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.8 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.15.16 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.12.11 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue v1.9.6 // indirect
@@ -47,7 +47,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.11.14 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssoadmin v1.15.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.11 // indirect
-	github.com/aws/smithy-go v1.13.4 // indirect
+	github.com/aws/smithy-go v1.24.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/briandowns/spinner v1.18.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
