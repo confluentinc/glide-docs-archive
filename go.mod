@@ -1,6 +1,6 @@
 module github.com/common-fate/docs
 
-go 1.24
+go 1.25.0
 
 require (
 	github.com/common-fate/clio v1.1.0
@@ -144,5 +144,5 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.23.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 )
