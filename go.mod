@@ -63,7 +63,7 @@ require (
 	github.com/deepmap/oapi-codegen v1.11.0 // indirect
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/getkin/kin-openapi v0.144.0 // indirect
-	github.com/go-chi/chi/v5 v5.2.4 // indirect
+	github.com/go-chi/chi/v5 v5.3.0 // indirect
 	github.com/go-chi/cors v1.2.1 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-openapi/jsonpointer v0.22.5 // indirect
