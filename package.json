@@ -19,7 +19,7 @@
     "@docusaurus/plugin-client-redirects": "^2.0.1",
     "@docusaurus/preset-classic": "^2.0.1",
     "@docusaurus/utils-validation": "^2.0.1",
-    "@mdx-js/react": "^1.6.21",
+    "@mdx-js/react": "^3.0.0",
     "clsx": "^1.1.1",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
