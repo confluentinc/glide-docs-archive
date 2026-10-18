@@ -16,7 +16,7 @@ import (
 	"github.com/common-fate/common-fate/pkg/gconfig"
 	"gopkg.in/yaml.v3"
 
-	"github.com/urfave/cli/v2"
+	"github.com/urfave/cli/v3"
 )
 
 var GenerateCommand = cli.Command{
