@@ -6,7 +6,7 @@ import (
 	"github.com/common-fate/clio"
 	"github.com/common-fate/clio/clierr"
 	"github.com/common-fate/docs/cmd/docscli/commands/generate"
-	"github.com/urfave/cli/v2"
+	"github.com/urfave/cli/v3"
 )
 
 func main() {
